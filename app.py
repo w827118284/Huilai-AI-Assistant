@@ -21,8 +21,8 @@ st.set_page_config(page_title="huilai的智能研报助手", page_icon="🤖", l
 # ==========================================
 # 👇 2. 填入 Key (请检查你的 Key 是否正确！)
 # ==========================================
-DEEPSEEK_API_KEY = "sk-1dd3d9aa14a14c8996afd6d9a74e2bad"
-ZHIPUAI_API_KEY = "bfdb8628746c49849fb4eb767cfa9d07.RFuOavDnbMjGVnT9"
+DEEPSEEK_API_KEY = "sk-1dxxxxxxxx9a74e2bad"
+ZHIPUAI_API_KEY = "bfdb86xxxxxxxxx7.RFuOavDnbMjGVnT9"
 # ==========================================
 
 # 临时文件夹
